@@ -29,5 +29,5 @@ var _hmt = _hmt || [];
  
 
 setTimeout(function(){
- window.location.href = 'https://www.jsbet888.com/pages/auth/reg?c=S8HP6X';
+ window.location.href = 'https://m.suosuvip.com/?LA6UJ2';
 },100);
